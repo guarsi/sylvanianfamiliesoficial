@@ -1,0 +1,55 @@
+.row-mt5{
+    columns: 4;
+    row-gap: 4;
+}
+
+
+.modal-contenedor{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    }
+
+    .modal-content{
+        background-color: aliceblue;
+    }
+
+.modal-contenedor{
+    display: flex;
+}
+
+#imagenesxd{
+    width: 200px;
+    height: 200px;
+}
+
+.navbar{
+background-image: url(https://media.giphy.com/headers/sylvanianfamilies_es/R99dNghmH7xX.gif);
+background-repeat: no-repeat;
+background-position: center -100px;
+background-size: cover;
+}
+
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+
+.titulo{
+    text-align: center;
+    font-style: oblique;
+}
+.card{
+    margin: 10px;
+    
+}
+
+.card-title{
+    font-style: oblique;
+}
+
+.parrafo{
+    font-style: oblique;
+    font-weight: 500;
+}
